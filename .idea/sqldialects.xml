@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/Desktop/编程学习/day03-微服务01/hm-cart.sql" dialect="MySQL" />
+    <file url="file://$USER_HOME$/Desktop/编程学习/day03-微服务01/hm-item.sql" dialect="MySQL" />
+    <file url="file://$USER_HOME$/Desktop/编程学习/day03-微服务01/hm-pay.sql" dialect="MySQL" />
+    <file url="file://$USER_HOME$/Desktop/编程学习/day03-微服务01/hm-trade.sql" dialect="MySQL" />
+    <file url="file://$USER_HOME$/Desktop/编程学习/day03-微服务01/hm-user.sql" dialect="MySQL" />
+    <file url="file://$USER_HOME$/Desktop/编程学习/day03-微服务01/nacos.sql" dialect="MySQL" />
+    <file url="file://$USER_HOME$/Desktop/编程学习/day05-服务保护与分布式事务/seata-tc.sql" dialect="MySQL" />
+  </component>
+</project>
